@@ -285,6 +285,9 @@ h3 {
 .page h2 {
   margin-top: var(--space-10);
 }
+.updated {
+  color: var(--ink-muted);
+}
 .notice {
   margin: 0 0 var(--space-8);
   padding: var(--space-3) var(--space-4);
